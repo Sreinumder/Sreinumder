@@ -1,8 +1,5 @@
 ライズです
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sreinumder&label=Profile%20views&color=0e75b6&style=flat" alt="Sreinumder" /> </p>
-
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on
